@@ -85,4 +85,4 @@ This project aims to predict gold prices using Python and machine learning techn
 
 ## Acuatl vPrices vs Predicted values of Gold Price plot
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Gold-Price-Prediction-Using-Python-Machine-Learning/blob/10ab7c90005a395818989f5849512dd452ee46d2/Actual%20Prices%20vs%20Predicted%20Values%20Gold%20price%20plot.png)
