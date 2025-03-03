@@ -42,7 +42,7 @@ This project aims to predict gold prices using Python and machine learning techn
 
 ## Heatmap displaying the correlation of Gold prices and other variables
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Gold-Price-Prediction-Using-Python-Machine-Learning/blob/92abcf2537ff28d6822c5bfa818c5c327e154c51/Heatmap%20displaying%20the%20correlation%20of%20Gold%20and%20other%20variables%20.png)
 
 
 
