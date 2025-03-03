@@ -48,7 +48,7 @@ This project aims to predict gold prices using Python and machine learning techn
 
 ## Distribution of Plot of Gold prices
 
-![image_alt]()
+![image_alt](https://github.com/Shamiso-Tirivanhu/Gold-Price-Prediction-Using-Python-Machine-Learning/blob/497f5d81a1cff7d14386c1dbbc63798d8d1ed9ac/Distribution%20Plot%20of%20Gold%20Prices.png)
 
 
 ## 4. Feature Engineering
